@@ -31,9 +31,9 @@ https://user-images.githubusercontent.com/3750161/205710177-bc937ae2-5759-467f-a
 
 MIT ©
 
-If you found this project interesting, please consider [supporting me](https://www.buymeacoffee.com/anzorq) or <a href="https://twitter.com/hahahahohohe">following me on twitter <img src="https://storage.googleapis.com/saasify-assets/twitter-logo.svg" alt="twitter" height="24px" align="center"></a>
+If you found this project interesting, please consider [supporting me](https://www.buymeacoffee.com/samarpatel) or <a href="https://twitter.com/samarpatel">following me on twitter <img src="https://storage.googleapis.com/saasify-assets/twitter-logo.svg" alt="twitter" height="24px" align="center"></a>
 
-[<a href="https://www.buymeacoffee.com/anzorq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45px" width="162px" alt="Buy Me A Coffee"></a>](https://www.buymeacoffee.com/anzorq)
+[<a href="https://www.buymeacoffee.com/samarpatel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45px" width="162px" alt="Buy Me A Coffee"></a>](https://www.buymeacoffee.com/samarpatel)
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=qunash/chatgpt-advanced)](https://visitor-badge.glitch.me)
 
